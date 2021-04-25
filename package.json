@@ -2,7 +2,7 @@
   "name": "react-task-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ankith-v.github.io/{Github-repo-name}",
+  "homepage": "http://ankith-v.github.io/Task-Tracker",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.11.10",
