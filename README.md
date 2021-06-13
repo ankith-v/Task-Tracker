@@ -1,4 +1,4 @@
-#A simple Task Tracking app made using create-react-app
+# A simple Task Tracking app made using create-react-app
 
 
 Learning React #1
