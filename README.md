@@ -1,3 +1,9 @@
+#A simple Task Tracking app made using create-react-app
+
+
+Learning React #1
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
